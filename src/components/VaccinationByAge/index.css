@@ -1,0 +1,45 @@
+
+.pieChartCont {
+  background-color: #1c1c2b;
+  border: 1px solid #5a8dee;
+  padding: 10px;
+  border-radius: 8px;
+  margin-bottom: 10px;
+
+}
+
+.pieHead {
+  color: #94a3b8;
+  font-size: 20px;
+  align-self: flex-start;
+}
+
+.pieChart {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.respoCont {
+  background-color: #1c1c2b;
+}
+
+.pie {
+  border: 1px solid white;
+}
+
+.legend {
+  border: 1px solid red;
+}
+
+.cell18 {
+  border: 1px solid green;
+}
+
+.cell44 {
+  border: 1px solid green;
+}
+
+.cell60 {
+  border: 1px solid green;
+}

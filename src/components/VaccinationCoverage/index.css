@@ -1,0 +1,62 @@
+.barChartCont {
+  background-color: #1c1c2b;
+  border: 1px solid #5a8dee;
+  padding: 30px;
+  border-radius: 8px;
+  margin-bottom: 10px;
+}
+.loading {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+.barHead {
+  color: #94a3b8;
+  font-size: 20px;
+}
+
+.barChart {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+}
+
+.respoCont {
+  background-color: #1c1c2b;
+}
+
+.xAxis {
+  color: #6c757d;
+  stroke: #6c757d;
+  font-weight: bold;
+  stroke-width: 1;
+}
+
+.yAxis {
+  color: #6c757d;
+  stroke: #6c757d;
+  stroke-width: 1;
+  font-weight: 500;
+}
+
+.legend {
+  border: 1px solid red;
+  align-self: center;
+}
+
+.dose_1_Bar {
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  border-radius: 10%;
+  color: #5a8dee;
+}
+
+.dose_2_Bar {
+  border-top-left-radius: 6px;
+  border-top-right-radius: 6px;
+  color: #f54394;
+}

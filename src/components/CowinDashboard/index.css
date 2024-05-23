@@ -1,0 +1,83 @@
+        
+        
+/* CowinDashboard */
+* {
+    font-family: Roboto;
+}
+
+body {
+    margin: 0px;
+}
+
+.bgCowinChartsCont {
+    background-color: #161625;
+    padding: 20px;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+
+}
+
+.CowinChartsCont {
+    width: 85%;
+
+}
+
+.logoCont {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+
+}
+
+.logo {
+    height: 55px;
+    width: 55px;
+    margin-right: 10px;
+
+}
+
+.logoHead {
+    color: #2cc6c6;
+    font-size: 30px;
+    font-weight: bold;
+
+}
+
+.cowinHead {
+    color: #cbd5e1;
+    font-size: 25px;
+
+}
+
+.bgFailureCont {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+.failureCont {
+    width: 80%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+.failureImg {
+    height: 400px;
+    width: 550px;
+    margin: 0px;
+    margin-bottom: 5px;
+
+}
+
+.failureHead {
+    color: white;
+    font-family: Bree serif;
+    font-size: 50px;
+
+}

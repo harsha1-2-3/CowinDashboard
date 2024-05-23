@@ -1,0 +1,43 @@
+.halfPieChartCont {
+  background-color: #1c1c2b;
+  border: 1px solid #5a8dee;
+  padding: 10px;
+  border-radius: 8px;
+  margin-bottom: 10px;
+}
+
+.halfPieHead {
+  color: #94a3b8;
+  font-size: 20px;
+  align-self: flex-start;
+}
+
+.halfPieChart {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.respoCont {
+  background-color: #1c1c2b;
+}
+
+.halfPie {
+  border: 1px solid white;
+}
+
+.legend {
+  border: 1px solid red;
+}
+
+.male {
+  border: 1px solid green;
+}
+
+.female {
+  border: 1px solid green;
+}
+
+.others {
+  border: 1px solid green;
+}
